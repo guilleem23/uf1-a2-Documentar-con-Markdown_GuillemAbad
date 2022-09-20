@@ -3,19 +3,19 @@
 
 1. ¿Qué es una página web? 
 
-Una página web se puede definir como un conjunto de información que se encuentra en una dirección determinada de internet.
+      Una página web se puede definir como un conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Qué es un sitio web? 
 
-Un sitio web es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio las cuales pertenecen y estan en internet-
+      Un sitio web es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio las cuales pertenecen y estan en internet-
 
 3. ¿Qué es una aplicación web? 
 
-Una aplicación web es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
+      Una aplicación web es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
 
 4. ¿Qué es una herramienta ofimática? 
 
-Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
+      Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:"):
 
@@ -30,7 +30,7 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 
 6. ¿Qué es ```HTML```?
 
-Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+      Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
 ```html
 <!DOCTYPE html>
@@ -49,7 +49,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
 7. ¿Qué es ```CSS```?
 
-CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+      CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
